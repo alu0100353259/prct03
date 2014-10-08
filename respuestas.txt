@@ -1,3 +1,7 @@
 21. ¿Cuales son las diferencias entre la ejecucion del programa "Hola Mundo" con el interprete de ruby y la interpretacion con irb?
 
-La primera diferencia sustancial es que con irb podemos ver el codigo interpretado (como si estuvieramos usando cat). También podemos ver como añadido el resultado de la operacion (devuelve nil) cosa que no hace el interprete de rumbién podemos ver como añadido el resultado de la operacion (devuelve nil) cosa que no hace el interprete de ruby.
+La primera diferencia sustancial es que con irb podemos ver el codigo interpretado (como si estuvieramos usando cat). También podemos ver como añadido el resultado de la operacion (devuelve nil) cosa que no hace el interprete de ruby.
+
+27. ¿Cuales son las diferencias entre el Hola Mundo ejecutado en irb o con pr?
+
+Si ejecutamos pry helloworld.rb vemos como se comporta de la misma manera que si utilizasemos el interprete propio de ruby, a diferencia de irb que nos proporciona muchisima mas informacion 
