@@ -1,0 +1,3 @@
+21. ¿Cuales son las diferencias entre la ejecucion del programa "Hola Mundo" con el interprete de ruby y la interpretacion con irb?
+
+La primera diferencia sustancial es que con irb podemos ver el codigo interpretado (como si estuvieramos usando cat). También podemos ver como añadido el resultado de la operacion (devuelve nil) cosa que no hace el interprete de rumbién podemos ver como añadido el resultado de la operacion (devuelve nil) cosa que no hace el interprete de ruby.
