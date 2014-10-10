@@ -4,4 +4,5 @@ La primera diferencia sustancial es que con irb podemos ver el codigo interpreta
 
 27. ¿Cuales son las diferencias entre el Hola Mundo ejecutado en irb o con pr?
 
-Si ejecutamos pry helloworld.rb vemos como se comporta de la misma manera que si utilizasemos el interprete propio de ruby, a diferencia de irb que nos proporciona muchisima mas informacion 
+Si ejecutamos pry helloworld.rb vemos como se comporta de la misma manera que si utilizasemos el interprete propio de ruby, a diferencia de irb que nos proporciona muchisima mas informacion.
+Aunque visualmente no apreciamos nada, pry es mucho mas potente, todo lo que podamos hacer en irb podemos hacerlo en pry. Pry además proporciona depuración en tiempo real o colorear la sintaxis. 
